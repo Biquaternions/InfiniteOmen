@@ -1,0 +1,9 @@
+name: InfiniteOmen
+version: '${version}'
+
+main: me.biquaternions.infiniteomen.InfiniteOmen
+api-version: '26.2'
+load: STARTUP
+folia-supported: true
+
+authors: [ Biquaternions ]
